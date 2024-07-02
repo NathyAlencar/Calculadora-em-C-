@@ -1,0 +1,28 @@
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\bin\Debug\net8.0\Exemplo.exe
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\bin\Debug\net8.0\Exemplo.deps.json
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\bin\Debug\net8.0\Exemplo.runtimeconfig.json
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\bin\Debug\net8.0\Exemplo.dll
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\bin\Debug\net8.0\Exemplo.pdb
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.AssemblyInfoInputs.cache
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.AssemblyInfo.cs
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.csproj.CoreCompileInputs.cache
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.dll
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\refint\Exemplo.dll
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.pdb
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\Exemplo.genruntimeconfig.cache
+D:\DIO\.net developer\FUNDAMENTOS DO .NET\Exemplo\obj\Debug\net8.0\ref\Exemplo.dll
+D:\DIO\.net developer\Exemplo\bin\Debug\net8.0\Exemplo.exe
+D:\DIO\.net developer\Exemplo\bin\Debug\net8.0\Exemplo.deps.json
+D:\DIO\.net developer\Exemplo\bin\Debug\net8.0\Exemplo.runtimeconfig.json
+D:\DIO\.net developer\Exemplo\bin\Debug\net8.0\Exemplo.dll
+D:\DIO\.net developer\Exemplo\bin\Debug\net8.0\Exemplo.pdb
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.AssemblyInfoInputs.cache
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.AssemblyInfo.cs
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.csproj.CoreCompileInputs.cache
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.dll
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\refint\Exemplo.dll
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.pdb
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\Exemplo.genruntimeconfig.cache
+D:\DIO\.net developer\Exemplo\obj\Debug\net8.0\ref\Exemplo.dll
